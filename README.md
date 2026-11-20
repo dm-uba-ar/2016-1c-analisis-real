@@ -1,9 +1,4 @@
-# Análisis Real - Medida y Probabilidad — Primer cuatrimestre de 2016
-
-## Equipo docente
-
-- **Clases teóricas:** Carlos Cabrelli
-- **Clases prácticas:** Jazmín Schmunis, Marcelo Valdettaro, Nahuel García
+# Análisis Real — Primer cuatrimestre de 2016
 
 ## Prácticas
 
